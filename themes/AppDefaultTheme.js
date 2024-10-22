@@ -8,6 +8,8 @@ export const AppDefaultTheme = {
   colors: {
     ...NavigationDefaultTheme.colors,
     ...PaperDefaultTheme.colors,
+    primary: "#fdd835",
+    accent: "#f57c00",
     background: "#ffffff",
     surface: "#ffffff",
     black: "#000000",

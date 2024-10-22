@@ -1,7 +1,7 @@
 export default {
   expo: {
-    name: "Expo Boilerplate",
-    slug: "expo-boilerplate",
+    name: "Laser Pizza",
+    slug: "laser-pizza",
     version: "1.0.0",
     orientation: "portrait",
     icon: "./assets/images/icons/icon.png",

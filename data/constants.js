@@ -1,1 +1,1 @@
-export const APP_NAME = "Expo Boilerplate"
+export const APP_NAME = "Laser Pizza"

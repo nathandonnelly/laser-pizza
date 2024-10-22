@@ -8,6 +8,8 @@ export const AppDarkTheme = {
   colors: {
     ...NavigationDarkTheme.colors,
     ...PaperDarkTheme.colors,
+    primary: "#fdd835",
+    accent: "#f57c00",
     background: "#181818",
     surface: "#212121",
     black: "#000000",
